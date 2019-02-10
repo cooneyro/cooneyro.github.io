@@ -20,6 +20,8 @@
   line-height: 0.75em;
   vertical-align: -.0667em; }
 
+  
+
 .fa-xs {
   font-size: .75em; }
 
@@ -2208,7 +2210,7 @@ readers do not read off random characters that represent icons */
 
 .fa-medium-m:before {
   content: "\f3c7"; }
-
+  
 .fa-medkit:before {
   content: "\f0fa"; }
 
